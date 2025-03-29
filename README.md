@@ -7,7 +7,7 @@
 
 ### Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation]()**
+- **[Vulnerability Management Cycle]()**
 
 ### Threat Hunting and Security Operations
 
