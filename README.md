@@ -5,10 +5,6 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-### Vulnerability Management Projects
-
-- **[Vulnerability Management Cycle]()**
-
 ### Threat Hunting and Security Operations
 
 - **[NIST SP 800-61 Rev. 2 - Computer Security Incident Handling](https://github.com/TravelingGithub/PICERL-Incident-Handling-Process)**
