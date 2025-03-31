@@ -15,7 +15,7 @@
 - **[Cyber Kill Chain](https://github.com/TravelingGithub/Cyber-Kill-Chain-and-EDR)**
 - **[Python Brute Force Encrypted Zip](https://github.com/TravelingGithub/Python-Brute-Force-Encrypted-Zip)**
 
-### GRC
+### Governance, Risk, and Compliance
 
 - **[CISecurity Assurance: Windows 11 Enterprise Hardening & Compliance Management](https://github.com/TravelingGithub/win11-cis-shield)**
 
