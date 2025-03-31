@@ -15,6 +15,10 @@
 - **[Cyber Kill Chain](https://github.com/TravelingGithub/Cyber-Kill-Chain-and-EDR)**
 - **[Python Brute Force Encrypted Zip](https://github.com/TravelingGithub/Python-Brute-Force-Encrypted-Zip)**
 
+### GRC
+
+- **[CISecurity Assurance: Windows 11 Enterprise Hardening & Compliance Management](https://github.com/TravelingGithub/win11-cis-shield)**
+
 <h2>Certifications:</h2>
 
 - **[Certified Information Systems Security Professional (CISSP)](https://www.credly.com/badges/f6e1e9de-d30a-4f21-b17c-f754e0471c7d/linked_in_profile)**
